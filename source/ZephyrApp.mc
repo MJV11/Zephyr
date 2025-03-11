@@ -6,47 +6,54 @@ import Toybox.WatchUi;
 import Toybox.Communications;
 
 class ZephyrApp extends WatchUi.DataField {
-    private var windSpeed = "--";
-    private var windDirection = "--";
-    private var nextRain = "--";
-    private var latitude = null;
-    private var longitude = null;
-    private var lastFetchTime = 0;
-    private var fetchInterval = 900000; // 15 minutes in milliseconds
+    private var windSpeed as String = "--";
+    private var windDirection as String = "--";
+    private var nextRain as String = "--";
+    private var latitude as Numeric = 0;
+    private var longitude as Numeric = 0;
+    private var lastFetchTime as Number = 0;
+    private var fetchInterval as Number = 900000; // 15 minutes in milliseconds
 
     function initialize() {
         DataField.initialize();
+        System.println("initializing");
     }
 
     // This is called when the data field is shown and whenever data is updated
-    function compute(info) {
-        // Check if we have position info in the Activity info
-        if (info has :position && info.position != null) {
-            var positionInfo = info.position;
-            
-            // Position format varies depending on the device
-            if (positionInfo has :latitude && positionInfo has :longitude) {
-                // Format used by some devices
-                latitude = positionInfo.latitude;
-                longitude = positionInfo.longitude;
-            } else if (positionInfo has :toDegrees) {
-                // Format used by other devices
-                var degreePos = positionInfo.toDegrees();
-                latitude = degreePos[0];
-                longitude = degreePos[1];
-            } else if (positionInfo instanceof Array && positionInfo.size() >= 2) {
-                // Raw array format
-                latitude = positionInfo[0];
-                longitude = positionInfo[1];
+    function compute(info) {        
+        try {
+            // Check if we have position info in the Activity info
+            if (info has :position && info.position != null) {
+                var positionInfo = info.position;
+                
+                // Position format varies depending on the device
+                if (positionInfo has :lat && positionInfo has :lon) {
+                    // Use different property names to avoid confusion
+                    self.latitude = positionInfo.lat;
+                    self.longitude = positionInfo.lon;
+                } else if (positionInfo has :toDegrees) {
+                    // Format used by other devices
+                    var degreePos = positionInfo.toDegrees();
+                    if (degreePos instanceof Array && degreePos.size() >= 2) {
+                        self.latitude = degreePos[0] as Float;
+                        self.longitude = degreePos[1] as Float;
+                    }
+                } else if (positionInfo instanceof Array && positionInfo.size() >= 2) {
+                    // Raw array format
+                    self.latitude = positionInfo[0] as Float;
+                    self.longitude = positionInfo[1] as Float;
+                }
+                
+                // Check if we should fetch weather
+                var currentTime = System.getTimer();
+                if (self.latitude != null && self.longitude != null && 
+                    (lastFetchTime == 0 || currentTime - lastFetchTime > fetchInterval)) {
+                    fetchWeather();
+                    lastFetchTime = currentTime;
+                }
             }
-            
-            // Check if we should fetch weather (first time or after interval)
-            var currentTime = System.getTimer();
-            if (latitude != null && longitude != null && 
-                (lastFetchTime == 0 || currentTime - lastFetchTime > fetchInterval)) {
-                fetchWeather();
-                lastFetchTime = currentTime;
-            }
+        } catch(ex) {
+            System.println("Exception in compute: " + ex.getErrorMessage());
         }
         
         return null;  // No direct value to return for a data field
@@ -72,19 +79,29 @@ class ZephyrApp extends WatchUi.DataField {
     function onWeatherResponse(responseCode as Number, data as Dictionary or String or Null) as Void {
         if (responseCode == 200 && data != null && data instanceof Dictionary) {
             try {
-                if (data.hasKey("wind") && data["wind"] instanceof Dictionary) {
-                    var windData = data["wind"];
+                var dataDictionary = data as Dictionary<String, Object>;
+                
+                if (dataDictionary.hasKey("wind") && dataDictionary.get("wind") instanceof Dictionary) {
+                    var windData = dataDictionary.get("wind") as Dictionary<String, Object>;
+                    
                     if (windData.hasKey("speed")) {
-                        windSpeed = windData["speed"].format("%.1f");
+                        var speed = windData.get("speed") as Numeric;
+                        windSpeed = speed.format("%.1f");
                     }
+                    
                     if (windData.hasKey("deg")) {
-                        windDirection = windData["deg"].toString();
+                        var direction = windData.get("deg") as Numeric;
+                        windDirection = direction.toString();
                     }
                 }
                 
                 // Safely check if rain data exists
-                if (data.hasKey("rain") && data["rain"] instanceof Dictionary && data["rain"].hasKey("1h")) {
-                    nextRain = data["rain"]["1h"].toString() + " in";
+                if (dataDictionary.hasKey("rain") && dataDictionary.get("rain") instanceof Dictionary) {
+                    var rainData = dataDictionary.get("rain") as Dictionary<String, Object>;
+                    if (rainData.hasKey("1h")) {
+                        var rainAmount = rainData.get("1h") as Numeric;
+                        nextRain = rainAmount.toString() + " in";
+                    }
                 } else {
                     nextRain = "No rain";
                 }
@@ -97,6 +114,7 @@ class ZephyrApp extends WatchUi.DataField {
             System.println("Weather Request Failed: " + responseCode);
         }
     }
+
 
     // Add error callback
     function onWeatherError(error as Number) as Void {
