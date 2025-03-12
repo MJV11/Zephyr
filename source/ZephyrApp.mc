@@ -16,7 +16,7 @@ class ZephyrApp extends WatchUi.DataField {
 
     function initialize() {
         DataField.initialize();
-        System.println("initializing");
+        System.println("initializing ZephyrApp");
     }
 
     // This is called when the data field is shown and whenever data is updated
@@ -51,6 +51,8 @@ class ZephyrApp extends WatchUi.DataField {
                     fetchWeather();
                     lastFetchTime = currentTime;
                 }
+            } else {
+                System.println("ZephyrApp: Position Unavailable");
             }
         } catch(ex) {
             System.println("Exception in compute: " + ex.getErrorMessage());
@@ -123,6 +125,7 @@ class ZephyrApp extends WatchUi.DataField {
     }
 
     function onUpdate(dc) {
+        System.println("ZephyrApp Updating");
         // Call parent's onUpdate
         DataField.onUpdate(dc);
         

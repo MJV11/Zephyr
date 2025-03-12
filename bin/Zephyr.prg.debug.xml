@@ -10,34 +10,34 @@
 <entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268435545" symbol="&lt;init&gt;"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="5" lineNum="9" parent="globals/ZephyrAppApp" pc="268435569" symbol="&lt;init&gt;"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="6" lineNum="6" parent="globals/ZephyrView" pc="268435588" symbol="&lt;init&gt;"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="79" parent="globals/ZephyrApp" pc="268435607" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="80" parent="globals/ZephyrApp" pc="268435611" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="82" parent="globals/ZephyrApp" pc="268435647" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="84" parent="globals/ZephyrApp" pc="268435651" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="85" parent="globals/ZephyrApp" pc="268435702" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="87" parent="globals/ZephyrApp" pc="268435720" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="88" parent="globals/ZephyrApp" pc="268435739" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="89" parent="globals/ZephyrApp" pc="268435757" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="92" parent="globals/ZephyrApp" pc="268435784" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="93" parent="globals/ZephyrApp" pc="268435803" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="94" parent="globals/ZephyrApp" pc="268435821" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="99" parent="globals/ZephyrApp" pc="268435846" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="100" parent="globals/ZephyrApp" pc="268435897" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="101" parent="globals/ZephyrApp" pc="268435915" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="102" parent="globals/ZephyrApp" pc="268435934" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="103" parent="globals/ZephyrApp" pc="268435952" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="106" parent="globals/ZephyrApp" pc="268435983" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="109" parent="globals/ZephyrApp" pc="268435996" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="110" parent="globals/ZephyrApp" pc="268436018" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="111" parent="globals/ZephyrApp" pc="268436022" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="114" parent="globals/ZephyrApp" pc="268436070" symbol="onWeatherResponse"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="62" parent="globals/ZephyrApp" pc="268436095" symbol="fetchWeather"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="63" parent="globals/ZephyrApp" pc="268436099" symbol="fetchWeather"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="64" parent="globals/ZephyrApp" pc="268436123" symbol="fetchWeather"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="65" parent="globals/ZephyrApp" pc="268436144" symbol="fetchWeather"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="68" parent="globals/ZephyrApp" pc="268436148" symbol="fetchWeather"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="69" parent="globals/ZephyrApp" pc="268436185" symbol="fetchWeather"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="75" parent="globals/ZephyrApp" pc="268436219" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="81" parent="globals/ZephyrApp" pc="268435607" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="82" parent="globals/ZephyrApp" pc="268435611" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="84" parent="globals/ZephyrApp" pc="268435647" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="86" parent="globals/ZephyrApp" pc="268435651" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="87" parent="globals/ZephyrApp" pc="268435702" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="89" parent="globals/ZephyrApp" pc="268435720" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="90" parent="globals/ZephyrApp" pc="268435739" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="91" parent="globals/ZephyrApp" pc="268435757" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="94" parent="globals/ZephyrApp" pc="268435784" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="95" parent="globals/ZephyrApp" pc="268435803" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="96" parent="globals/ZephyrApp" pc="268435821" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="101" parent="globals/ZephyrApp" pc="268435846" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="102" parent="globals/ZephyrApp" pc="268435897" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="103" parent="globals/ZephyrApp" pc="268435915" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="104" parent="globals/ZephyrApp" pc="268435934" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="105" parent="globals/ZephyrApp" pc="268435952" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="108" parent="globals/ZephyrApp" pc="268435983" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="111" parent="globals/ZephyrApp" pc="268435996" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="112" parent="globals/ZephyrApp" pc="268436018" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="113" parent="globals/ZephyrApp" pc="268436022" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="7" lineNum="116" parent="globals/ZephyrApp" pc="268436070" symbol="onWeatherResponse"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="64" parent="globals/ZephyrApp" pc="268436095" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="65" parent="globals/ZephyrApp" pc="268436099" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="66" parent="globals/ZephyrApp" pc="268436123" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="67" parent="globals/ZephyrApp" pc="268436144" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="70" parent="globals/ZephyrApp" pc="268436148" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="71" parent="globals/ZephyrApp" pc="268436185" symbol="fetchWeather"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="8" lineNum="77" parent="globals/ZephyrApp" pc="268436219" symbol="fetchWeather"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="23" parent="globals/ZephyrApp" pc="268436257" symbol="compute"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="26" parent="globals/ZephyrApp" pc="268436261" symbol="compute"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="27" parent="globals/ZephyrApp" pc="268436285" symbol="compute"/>
@@ -56,99 +56,101 @@
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="49" parent="globals/ZephyrApp" pc="268436542" symbol="compute"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="51" parent="globals/ZephyrApp" pc="268436608" symbol="compute"/>
 <entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="52" parent="globals/ZephyrApp" pc="268436620" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="55" parent="globals/ZephyrApp" pc="268436642" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="56" parent="globals/ZephyrApp" pc="268436646" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="59" parent="globals/ZephyrApp" pc="268436691" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="10" lineNum="120" parent="globals/ZephyrApp" pc="268436693" symbol="onWeatherError"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="10" lineNum="121" parent="globals/ZephyrApp" pc="268436695" symbol="onWeatherError"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="10" lineNum="122" parent="globals/ZephyrApp" pc="268436719" symbol="onWeatherError"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="11" lineNum="17" parent="globals/ZephyrApp" pc="268436736" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="11" lineNum="18" parent="globals/ZephyrApp" pc="268436738" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="11" lineNum="19" parent="globals/ZephyrApp" pc="268436756" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="125" parent="globals/ZephyrApp" pc="268436778" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="127" parent="globals/ZephyrApp" pc="268436782" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="130" parent="globals/ZephyrApp" pc="268436802" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="131" parent="globals/ZephyrApp" pc="268436815" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="134" parent="globals/ZephyrApp" pc="268436828" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="135" parent="globals/ZephyrApp" pc="268436850" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="138" parent="globals/ZephyrApp" pc="268436876" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="139" parent="globals/ZephyrApp" pc="268436898" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="140" parent="globals/ZephyrApp" pc="268436953" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="141" parent="globals/ZephyrApp" pc="268437008" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="13" lineNum="19" parent="globals/Background" pc="268437058" symbol="setColor"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="13" lineNum="20" parent="globals/Background" pc="268437060" symbol="setColor"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="9" parent="globals/Background" pc="268437071" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="10" parent="globals/Background" pc="268437075" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="14" parent="globals/Background" pc="268437096" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="16" parent="globals/Background" pc="268437116" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="15" lineNum="23" parent="globals/Background" pc="268437130" symbol="draw"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="15" lineNum="24" parent="globals/Background" pc="268437132" symbol="draw"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="15" lineNum="25" parent="globals/Background" pc="268437157" symbol="draw"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="16" lineNum="16" parent="globals/ZephyrAppApp" pc="268437170" symbol="getInitialView"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="16" lineNum="17" parent="globals/ZephyrAppApp" pc="268437172" symbol="getInitialView"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="16" lineNum="19" parent="globals/ZephyrAppApp" pc="268437193" symbol="getInitialView"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="17" lineNum="10" parent="globals/ZephyrAppApp" pc="268437234" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="17" lineNum="11" parent="globals/ZephyrAppApp" pc="268437236" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="17" lineNum="12" parent="globals/ZephyrAppApp" pc="268437254" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="52" parent="globals/ZephyrView" pc="268437276" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="54" parent="globals/ZephyrView" pc="268437278" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="55" parent="globals/ZephyrView" pc="268437289" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="56" parent="globals/ZephyrView" pc="268437302" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="58" parent="globals/ZephyrView" pc="268437321" symbol="compute"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="17" parent="globals/ZephyrView" pc="268437338" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="18" parent="globals/ZephyrView" pc="268437342" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="21" parent="globals/ZephyrView" pc="268437361" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="22" parent="globals/ZephyrView" pc="268437372" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="25" parent="globals/ZephyrView" pc="268437426" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="26" parent="globals/ZephyrView" pc="268437437" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="29" parent="globals/ZephyrView" pc="268437491" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="30" parent="globals/ZephyrView" pc="268437502" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="33" parent="globals/ZephyrView" pc="268437556" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="34" parent="globals/ZephyrView" pc="268437567" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="38" parent="globals/ZephyrView" pc="268437621" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="39" parent="globals/ZephyrView" pc="268437672" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="40" parent="globals/ZephyrView" pc="268437700" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="41" parent="globals/ZephyrView" pc="268437722" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="42" parent="globals/ZephyrView" pc="268437750" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="45" parent="globals/ZephyrView" pc="268437772" symbol="onLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="20" lineNum="10" parent="globals/ZephyrView" pc="268437833" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="20" lineNum="11" parent="globals/ZephyrView" pc="268437835" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="20" lineNum="12" parent="globals/ZephyrView" pc="268437853" symbol="initialize"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="65" parent="globals/ZephyrView" pc="268437867" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="67" parent="globals/ZephyrView" pc="268437871" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="70" parent="globals/ZephyrView" pc="268437918" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="71" parent="globals/ZephyrView" pc="268437946" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="72" parent="globals/ZephyrView" pc="268437966" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="74" parent="globals/ZephyrView" pc="268437986" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="76" parent="globals/ZephyrView" pc="268438003" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="79" parent="globals/ZephyrView" pc="268438037" symbol="onUpdate"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="57" parent="globals/Rez/Layouts" pc="268438062" symbol="BottomRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="58" parent="globals/Rez/Layouts" pc="268438074" symbol="BottomRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="60" parent="globals/Rez/Layouts" pc="268438102" symbol="BottomRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="62" parent="globals/Rez/Layouts" pc="268438214" symbol="BottomRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="64" parent="globals/Rez/Layouts" pc="268438326" symbol="BottomRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="37" parent="globals/Rez/Layouts" pc="268438363" symbol="TopRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="38" parent="globals/Rez/Layouts" pc="268438375" symbol="TopRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="40" parent="globals/Rez/Layouts" pc="268438403" symbol="TopRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="42" parent="globals/Rez/Layouts" pc="268438515" symbol="TopRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="44" parent="globals/Rez/Layouts" pc="268438627" symbol="TopRightLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="47" parent="globals/Rez/Layouts" pc="268438664" symbol="BottomLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="48" parent="globals/Rez/Layouts" pc="268438676" symbol="BottomLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="50" parent="globals/Rez/Layouts" pc="268438704" symbol="BottomLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="52" parent="globals/Rez/Layouts" pc="268438816" symbol="BottomLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="54" parent="globals/Rez/Layouts" pc="268438928" symbol="BottomLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="27" parent="globals/Rez/Layouts" pc="268438965" symbol="TopLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="28" parent="globals/Rez/Layouts" pc="268438977" symbol="TopLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="30" parent="globals/Rez/Layouts" pc="268439005" symbol="TopLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="32" parent="globals/Rez/Layouts" pc="268439117" symbol="TopLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="34" parent="globals/Rez/Layouts" pc="268439229" symbol="TopLeftLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="13" parent="globals/Rez/Layouts" pc="268439266" symbol="MainLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="14" parent="globals/Rez/Layouts" pc="268439278" symbol="MainLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="16" parent="globals/Rez/Layouts" pc="268439291" symbol="MainLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="18" parent="globals/Rez/Layouts" pc="268439304" symbol="MainLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="20" parent="globals/Rez/Layouts" pc="268439332" symbol="MainLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="22" parent="globals/Rez/Layouts" pc="268439467" symbol="MainLayout"/>
-<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="24" parent="globals/Rez/Layouts" pc="268439602" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="55" parent="globals/ZephyrApp" pc="268436636" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="57" parent="globals/ZephyrApp" pc="268436663" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="58" parent="globals/ZephyrApp" pc="268436667" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="9" lineNum="61" parent="globals/ZephyrApp" pc="268436712" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="10" lineNum="122" parent="globals/ZephyrApp" pc="268436714" symbol="onWeatherError"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="10" lineNum="123" parent="globals/ZephyrApp" pc="268436716" symbol="onWeatherError"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="10" lineNum="124" parent="globals/ZephyrApp" pc="268436740" symbol="onWeatherError"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="11" lineNum="17" parent="globals/ZephyrApp" pc="268436757" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="11" lineNum="18" parent="globals/ZephyrApp" pc="268436759" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="11" lineNum="19" parent="globals/ZephyrApp" pc="268436777" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="127" parent="globals/ZephyrApp" pc="268436799" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="128" parent="globals/ZephyrApp" pc="268436803" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="130" parent="globals/ZephyrApp" pc="268436824" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="133" parent="globals/ZephyrApp" pc="268436844" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="134" parent="globals/ZephyrApp" pc="268436857" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="137" parent="globals/ZephyrApp" pc="268436870" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="138" parent="globals/ZephyrApp" pc="268436892" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="141" parent="globals/ZephyrApp" pc="268436918" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="142" parent="globals/ZephyrApp" pc="268436940" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="143" parent="globals/ZephyrApp" pc="268436995" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrApp.mc" id="12" lineNum="144" parent="globals/ZephyrApp" pc="268437050" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="13" lineNum="19" parent="globals/Background" pc="268437100" symbol="setColor"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="13" lineNum="20" parent="globals/Background" pc="268437102" symbol="setColor"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="9" parent="globals/Background" pc="268437113" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="10" parent="globals/Background" pc="268437117" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="14" parent="globals/Background" pc="268437138" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="14" lineNum="16" parent="globals/Background" pc="268437158" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="15" lineNum="23" parent="globals/Background" pc="268437172" symbol="draw"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="15" lineNum="24" parent="globals/Background" pc="268437174" symbol="draw"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrBackground.mc" id="15" lineNum="25" parent="globals/Background" pc="268437199" symbol="draw"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="16" lineNum="16" parent="globals/ZephyrAppApp" pc="268437212" symbol="getInitialView"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="16" lineNum="17" parent="globals/ZephyrAppApp" pc="268437214" symbol="getInitialView"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="16" lineNum="19" parent="globals/ZephyrAppApp" pc="268437235" symbol="getInitialView"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="17" lineNum="10" parent="globals/ZephyrAppApp" pc="268437276" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="17" lineNum="11" parent="globals/ZephyrAppApp" pc="268437278" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrAppApp.mc" id="17" lineNum="12" parent="globals/ZephyrAppApp" pc="268437296" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="52" parent="globals/ZephyrView" pc="268437318" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="54" parent="globals/ZephyrView" pc="268437320" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="55" parent="globals/ZephyrView" pc="268437331" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="56" parent="globals/ZephyrView" pc="268437344" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="18" lineNum="58" parent="globals/ZephyrView" pc="268437363" symbol="compute"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="17" parent="globals/ZephyrView" pc="268437380" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="18" parent="globals/ZephyrView" pc="268437384" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="21" parent="globals/ZephyrView" pc="268437403" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="22" parent="globals/ZephyrView" pc="268437414" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="25" parent="globals/ZephyrView" pc="268437468" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="26" parent="globals/ZephyrView" pc="268437479" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="29" parent="globals/ZephyrView" pc="268437533" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="30" parent="globals/ZephyrView" pc="268437544" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="33" parent="globals/ZephyrView" pc="268437598" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="34" parent="globals/ZephyrView" pc="268437609" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="38" parent="globals/ZephyrView" pc="268437663" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="39" parent="globals/ZephyrView" pc="268437714" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="40" parent="globals/ZephyrView" pc="268437742" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="41" parent="globals/ZephyrView" pc="268437764" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="42" parent="globals/ZephyrView" pc="268437792" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="19" lineNum="45" parent="globals/ZephyrView" pc="268437814" symbol="onLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="20" lineNum="10" parent="globals/ZephyrView" pc="268437875" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="20" lineNum="11" parent="globals/ZephyrView" pc="268437877" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="20" lineNum="12" parent="globals/ZephyrView" pc="268437895" symbol="initialize"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="65" parent="globals/ZephyrView" pc="268437909" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="67" parent="globals/ZephyrView" pc="268437913" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="70" parent="globals/ZephyrView" pc="268437960" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="71" parent="globals/ZephyrView" pc="268437988" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="72" parent="globals/ZephyrView" pc="268438008" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="74" parent="globals/ZephyrView" pc="268438028" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="76" parent="globals/ZephyrView" pc="268438045" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/source/ZephyrView.mc" id="21" lineNum="79" parent="globals/ZephyrView" pc="268438079" symbol="onUpdate"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="57" parent="globals/Rez/Layouts" pc="268438104" symbol="BottomRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="58" parent="globals/Rez/Layouts" pc="268438116" symbol="BottomRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="60" parent="globals/Rez/Layouts" pc="268438144" symbol="BottomRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="62" parent="globals/Rez/Layouts" pc="268438256" symbol="BottomRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="22" lineNum="64" parent="globals/Rez/Layouts" pc="268438368" symbol="BottomRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="37" parent="globals/Rez/Layouts" pc="268438405" symbol="TopRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="38" parent="globals/Rez/Layouts" pc="268438417" symbol="TopRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="40" parent="globals/Rez/Layouts" pc="268438445" symbol="TopRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="42" parent="globals/Rez/Layouts" pc="268438557" symbol="TopRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="23" lineNum="44" parent="globals/Rez/Layouts" pc="268438669" symbol="TopRightLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="47" parent="globals/Rez/Layouts" pc="268438706" symbol="BottomLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="48" parent="globals/Rez/Layouts" pc="268438718" symbol="BottomLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="50" parent="globals/Rez/Layouts" pc="268438746" symbol="BottomLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="52" parent="globals/Rez/Layouts" pc="268438858" symbol="BottomLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="24" lineNum="54" parent="globals/Rez/Layouts" pc="268438970" symbol="BottomLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="27" parent="globals/Rez/Layouts" pc="268439007" symbol="TopLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="28" parent="globals/Rez/Layouts" pc="268439019" symbol="TopLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="30" parent="globals/Rez/Layouts" pc="268439047" symbol="TopLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="32" parent="globals/Rez/Layouts" pc="268439159" symbol="TopLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="25" lineNum="34" parent="globals/Rez/Layouts" pc="268439271" symbol="TopLeftLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="13" parent="globals/Rez/Layouts" pc="268439308" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="14" parent="globals/Rez/Layouts" pc="268439320" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="16" parent="globals/Rez/Layouts" pc="268439333" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="18" parent="globals/Rez/Layouts" pc="268439346" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="20" parent="globals/Rez/Layouts" pc="268439374" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="22" parent="globals/Rez/Layouts" pc="268439509" symbol="MainLayout"/>
+<entry filename="/Users/maxvink/Documents/github/Zephyr/bin/gen/006-B3121-00/source/Rez.mcgen" id="26" lineNum="24" parent="globals/Rez/Layouts" pc="268439644" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -228,47 +230,47 @@
 <entry endPc="268436061" name="e" stackId="9" startPc="268436018"/>
 <entry endPc="268436255" name="apiUrl" stackId="1" startPc="268436099"/>
 <entry endPc="268436255" name="options" stackId="2" startPc="268436099"/>
-<entry arg="true" endPc="268436692" name="info" stackId="1" startPc="268436257"/>
+<entry arg="true" endPc="268436713" name="info" stackId="1" startPc="268436257"/>
 <entry endPc="268436632" name="positionInfo" stackId="2" startPc="268436285"/>
 <entry endPc="268436448" name="degreePos" stackId="3" startPc="268436363"/>
 <entry endPc="268436632" name="currentTime" stackId="4" startPc="268436285"/>
-<entry endPc="268436685" name="ex" stackId="5" startPc="268436642"/>
-<entry arg="true" endPc="268436735" name="error" stackId="1" startPc="268436693"/>
-<entry arg="true" endPc="268437057" name="dc" stackId="1" startPc="268436778"/>
-<entry endPc="268437056" name="width" stackId="2" startPc="268436782"/>
-<entry endPc="268437056" name="height" stackId="3" startPc="268436782"/>
-<entry arg="true" endPc="268437070" name="color" stackId="1" startPc="268437058"/>
-<entry endPc="268437128" name="dictionary" stackId="1" startPc="268437075"/>
-<entry arg="true" endPc="268437169" name="dc" stackId="1" startPc="268437130"/>
-<entry arg="true" endPc="268437337" name="info" stackId="1" startPc="268437276"/>
-<entry arg="true" endPc="268437832" name="dc" stackId="1" startPc="268437338"/>
-<entry endPc="268437831" name="obscurityFlags" stackId="2" startPc="268437342"/>
-<entry endPc="268437771" name="labelView" stackId="3" startPc="268437621"/>
-<entry endPc="268437771" name="valueView" stackId="4" startPc="268437621"/>
-<entry arg="true" endPc="268438061" name="dc" stackId="1" startPc="268437867"/>
-<entry endPc="268438060" name="value" stackId="2" startPc="268437871"/>
-<entry arg="true" endPc="268438362" name="dc" stackId="1" startPc="268438062"/>
-<entry endPc="268438362" name="rez_cmp_local_custom_drawable_16187860511068497434" stackId="2" startPc="268438074"/>
-<entry endPc="268438362" name="rez_cmp_local_text_label" stackId="3" startPc="268438074"/>
-<entry endPc="268438362" name="rez_cmp_local_text_value" stackId="4" startPc="268438074"/>
-<entry arg="true" endPc="268438663" name="dc" stackId="1" startPc="268438363"/>
-<entry endPc="268438663" name="rez_cmp_local_custom_drawable_11824933295158922413" stackId="2" startPc="268438375"/>
-<entry endPc="268438663" name="rez_cmp_local_text_label" stackId="3" startPc="268438375"/>
-<entry endPc="268438663" name="rez_cmp_local_text_value" stackId="4" startPc="268438375"/>
-<entry arg="true" endPc="268438964" name="dc" stackId="1" startPc="268438664"/>
-<entry endPc="268438964" name="rez_cmp_local_custom_drawable_16380678501279751870" stackId="2" startPc="268438676"/>
-<entry endPc="268438964" name="rez_cmp_local_text_label" stackId="3" startPc="268438676"/>
-<entry endPc="268438964" name="rez_cmp_local_text_value" stackId="4" startPc="268438676"/>
-<entry arg="true" endPc="268439265" name="dc" stackId="1" startPc="268438965"/>
-<entry endPc="268439265" name="rez_cmp_local_custom_drawable_83741574912206153191" stackId="2" startPc="268438977"/>
-<entry endPc="268439265" name="rez_cmp_local_text_label" stackId="3" startPc="268438977"/>
-<entry endPc="268439265" name="rez_cmp_local_text_value" stackId="4" startPc="268438977"/>
-<entry arg="true" endPc="268439638" name="dc" stackId="1" startPc="268439266"/>
-<entry endPc="268439638" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268439278"/>
-<entry endPc="268439638" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268439278"/>
-<entry endPc="268439638" name="rez_cmp_local_custom_drawable_11939594661139614796" stackId="4" startPc="268439278"/>
-<entry endPc="268439638" name="rez_cmp_local_text_label" stackId="5" startPc="268439278"/>
-<entry endPc="268439638" name="rez_cmp_local_text_value" stackId="6" startPc="268439278"/>
+<entry endPc="268436706" name="ex" stackId="5" startPc="268436663"/>
+<entry arg="true" endPc="268436756" name="error" stackId="1" startPc="268436714"/>
+<entry arg="true" endPc="268437099" name="dc" stackId="1" startPc="268436799"/>
+<entry endPc="268437098" name="width" stackId="2" startPc="268436803"/>
+<entry endPc="268437098" name="height" stackId="3" startPc="268436803"/>
+<entry arg="true" endPc="268437112" name="color" stackId="1" startPc="268437100"/>
+<entry endPc="268437170" name="dictionary" stackId="1" startPc="268437117"/>
+<entry arg="true" endPc="268437211" name="dc" stackId="1" startPc="268437172"/>
+<entry arg="true" endPc="268437379" name="info" stackId="1" startPc="268437318"/>
+<entry arg="true" endPc="268437874" name="dc" stackId="1" startPc="268437380"/>
+<entry endPc="268437873" name="obscurityFlags" stackId="2" startPc="268437384"/>
+<entry endPc="268437813" name="labelView" stackId="3" startPc="268437663"/>
+<entry endPc="268437813" name="valueView" stackId="4" startPc="268437663"/>
+<entry arg="true" endPc="268438103" name="dc" stackId="1" startPc="268437909"/>
+<entry endPc="268438102" name="value" stackId="2" startPc="268437913"/>
+<entry arg="true" endPc="268438404" name="dc" stackId="1" startPc="268438104"/>
+<entry endPc="268438404" name="rez_cmp_local_custom_drawable_16187860511068497434" stackId="2" startPc="268438116"/>
+<entry endPc="268438404" name="rez_cmp_local_text_label" stackId="3" startPc="268438116"/>
+<entry endPc="268438404" name="rez_cmp_local_text_value" stackId="4" startPc="268438116"/>
+<entry arg="true" endPc="268438705" name="dc" stackId="1" startPc="268438405"/>
+<entry endPc="268438705" name="rez_cmp_local_custom_drawable_11824933295158922413" stackId="2" startPc="268438417"/>
+<entry endPc="268438705" name="rez_cmp_local_text_label" stackId="3" startPc="268438417"/>
+<entry endPc="268438705" name="rez_cmp_local_text_value" stackId="4" startPc="268438417"/>
+<entry arg="true" endPc="268439006" name="dc" stackId="1" startPc="268438706"/>
+<entry endPc="268439006" name="rez_cmp_local_custom_drawable_16380678501279751870" stackId="2" startPc="268438718"/>
+<entry endPc="268439006" name="rez_cmp_local_text_label" stackId="3" startPc="268438718"/>
+<entry endPc="268439006" name="rez_cmp_local_text_value" stackId="4" startPc="268438718"/>
+<entry arg="true" endPc="268439307" name="dc" stackId="1" startPc="268439007"/>
+<entry endPc="268439307" name="rez_cmp_local_custom_drawable_83741574912206153191" stackId="2" startPc="268439019"/>
+<entry endPc="268439307" name="rez_cmp_local_text_label" stackId="3" startPc="268439019"/>
+<entry endPc="268439307" name="rez_cmp_local_text_value" stackId="4" startPc="268439019"/>
+<entry arg="true" endPc="268439680" name="dc" stackId="1" startPc="268439308"/>
+<entry endPc="268439680" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268439320"/>
+<entry endPc="268439680" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268439320"/>
+<entry endPc="268439680" name="rez_cmp_local_custom_drawable_11939594661139614796" stackId="4" startPc="268439320"/>
+<entry endPc="268439680" name="rez_cmp_local_text_label" stackId="5" startPc="268439320"/>
+<entry endPc="268439680" name="rez_cmp_local_text_value" stackId="6" startPc="268439320"/>
 </localVars>
 <deviceInfo deviceVersion="722eeea457636580f75a28ae6c94dcea8ad83696" partNumber="006-B3121-00"/>
 <annotations>
@@ -314,29 +316,29 @@
 <functionEntry accessMode="public" endPc="268436256" name="fetchWeather" parent="ZephyrApp" startPc="268436095">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436692" name="compute" parent="ZephyrApp" startPc="268436257">
+<functionEntry accessMode="public" endPc="268436713" name="compute" parent="ZephyrApp" startPc="268436257">
 <param id="info"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436735" name="onWeatherError" parent="ZephyrApp" startPc="268436693">
+<functionEntry accessMode="public" endPc="268436756" name="onWeatherError" parent="ZephyrApp" startPc="268436714">
 <param id="error"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436777" name="initialize" parent="ZephyrApp" startPc="268436736">
+<functionEntry accessMode="public" endPc="268436798" name="initialize" parent="ZephyrApp" startPc="268436757">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437057" name="onUpdate" parent="ZephyrApp" startPc="268436778">
+<functionEntry accessMode="public" endPc="268437099" name="onUpdate" parent="ZephyrApp" startPc="268436799">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437070" name="setColor" parent="Background" startPc="268437058">
+<functionEntry accessMode="public" endPc="268437112" name="setColor" parent="Background" startPc="268437100">
 <param id="color"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437129" name="initialize" parent="Background" startPc="268437071">
+<functionEntry accessMode="public" endPc="268437171" name="initialize" parent="Background" startPc="268437113">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437169" name="draw" parent="Background" startPc="268437130">
+<functionEntry accessMode="public" endPc="268437211" name="draw" parent="Background" startPc="268437172">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
@@ -349,44 +351,44 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437233" name="getInitialView" parent="ZephyrAppApp" startPc="268437170">
+<functionEntry accessMode="public" endPc="268437275" name="getInitialView" parent="ZephyrAppApp" startPc="268437212">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437275" name="initialize" parent="ZephyrAppApp" startPc="268437234">
+<functionEntry accessMode="public" endPc="268437317" name="initialize" parent="ZephyrAppApp" startPc="268437276">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437337" name="compute" parent="ZephyrView" startPc="268437276">
+<functionEntry accessMode="public" endPc="268437379" name="compute" parent="ZephyrView" startPc="268437318">
 <param id="info"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437832" name="onLayout" parent="ZephyrView" startPc="268437338">
+<functionEntry accessMode="public" endPc="268437874" name="onLayout" parent="ZephyrView" startPc="268437380">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437866" name="initialize" parent="ZephyrView" startPc="268437833">
+<functionEntry accessMode="public" endPc="268437908" name="initialize" parent="ZephyrView" startPc="268437875">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438061" name="onUpdate" parent="ZephyrView" startPc="268437867">
+<functionEntry accessMode="public" endPc="268438103" name="onUpdate" parent="ZephyrView" startPc="268437909">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438362" name="BottomRightLayout" parent="Layouts" startPc="268438062">
+<functionEntry accessMode="public" endPc="268438404" name="BottomRightLayout" parent="Layouts" startPc="268438104">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438663" name="TopRightLayout" parent="Layouts" startPc="268438363">
+<functionEntry accessMode="public" endPc="268438705" name="TopRightLayout" parent="Layouts" startPc="268438405">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438964" name="BottomLeftLayout" parent="Layouts" startPc="268438664">
+<functionEntry accessMode="public" endPc="268439006" name="BottomLeftLayout" parent="Layouts" startPc="268438706">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439265" name="TopLeftLayout" parent="Layouts" startPc="268438965">
+<functionEntry accessMode="public" endPc="268439307" name="TopLeftLayout" parent="Layouts" startPc="268439007">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439638" name="MainLayout" parent="Layouts" startPc="268439266">
+<functionEntry accessMode="public" endPc="268439680" name="MainLayout" parent="Layouts" startPc="268439308">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
