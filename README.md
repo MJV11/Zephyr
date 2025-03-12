@@ -2,8 +2,6 @@
 
 Zephyr is a Connect IQ Data Field for Garmin Edge cycling computers that provides real-time wind and precipitation information based on your current location. Designed for cyclists who want to stay informed about weather conditions during their rides.
 
-![Zephyr Data Field](https://via.placeholder.com/300x200?text=Zephyr+Data+Field)
-
 ## Features
 
 - **Current Wind Speed**: Displays wind speed in mph
